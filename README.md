@@ -29,6 +29,7 @@
 This is a simple Rails api-only application that send out json format response for random messages.
 
 ## 🛠 Built With <a name="built-with"></a>
+### Tech Stack <a name="tech-stack"></a>
 
 <details> <summary>Programming Language</summary> <ul> <li>Ruby 3.2.2</li> </ul> </details>
 
